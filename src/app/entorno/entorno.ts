@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class Entorno {
   titulo = 'Práctica de gestión de entornos';
   bienvenida = 'Bienvenido a la aplicación de la práctica de Git y Vercel.';
-  siglas = 'SIN CONFIGURAR';
-  mensaje = 'Entorno sin configurar';
-  clase = '';
+  siglas = 'PROD';
+  mensaje = 'Entorno de producción';
+  clase = 'prod';
 }
